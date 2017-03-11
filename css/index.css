@@ -1,0 +1,46 @@
+#allcontent{
+	background-color: #eee;
+	padding: 20px;
+	border:1px solid #999;
+}
+#group{
+	width: 200px;
+	float: left;
+	padding: 27px;
+	border:1px solid #999;
+	height: 80px;
+}
+#group p{
+	
+	width: 66px;
+	margin-left: 91px;
+	margin-top: -82px;
+
+}
+#text{
+	margin-left: 274px;
+	margin-right: 140px;
+	
+	
+	border:1px solid #999;
+}
+#perosn_logo{
+	width:120px;
+	float: right;
+
+	
+	border:1px solid #999;
+
+}
+.doo{
+	
+	margin: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#top{
+	margin-top: 20px;
+}
+#bottom{
+	margin-bottom: 20px;
+}
